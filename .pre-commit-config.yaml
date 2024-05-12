@@ -5,3 +5,4 @@ repos:
     hooks:
       - id: check-added-large-files
         args: [--enforce-all]
+      - id: trailing-whitespace
